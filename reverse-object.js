@@ -4,8 +4,6 @@ let numbers = {
 };
 
 function result(numbers) {
-	return angka = {a: numbers.b, b: numbers.a}
+  return { a: numbers.b, b: numbers.a };
 }
-console.log(result(numbers))
-
-
+console.log(result(numbers));
